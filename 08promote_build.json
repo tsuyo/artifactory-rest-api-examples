@@ -1,0 +1,8 @@
+{
+ "status": "release",
+ "timestamp": "2020-01-01T00:00:00.000+0000",
+ "sourceRepo": "test-tsuyo-local",
+ "targetRepo": "prod-tsuyo-local",
+ "copy": false,
+ "artifacts": true
+}

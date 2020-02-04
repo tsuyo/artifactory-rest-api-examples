@@ -1,0 +1,9 @@
+{
+  "name": "tsuyo_permission",
+  "repositories": ["test-tsuyo-local"],
+  "actions": {
+    "groups": {
+      "tsuyo_group": ["read", "write", "annotate", "delete", "manage"]
+    }
+  }
+}
